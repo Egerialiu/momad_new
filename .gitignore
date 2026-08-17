@@ -1,0 +1,9 @@
+*.pth
+*.tgz
+*.whl
+*.zip
+*.tar.xz
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store

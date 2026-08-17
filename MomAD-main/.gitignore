@@ -1,6 +1,5 @@
 *.pyc
 *.npy
-*.pth
 *.whl
 *.swp
 

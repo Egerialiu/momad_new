@@ -1,0 +1,1 @@
+MomAD-main/open_loop/data/infos/nuscenes_infos_train.pkl
